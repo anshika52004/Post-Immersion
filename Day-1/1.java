@@ -7,7 +7,7 @@ public class Main {
         
         while (a<5){
             a+=2;
-            System.out.println(a);
+            System.out.println(a);   //loop wiil execute for 2 times
         }
     }
 }
